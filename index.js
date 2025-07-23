@@ -1,7 +1,7 @@
 // server.js
 const express = require('express');
 const cors = require('cors');
-const apiData = require('./data');
+const { produk_utama } = require('./data');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
