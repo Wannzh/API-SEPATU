@@ -441,3 +441,5 @@ const api = {
     },
   ],
 };
+
+module.exports = { produk_utama };
