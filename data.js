@@ -442,4 +442,4 @@ const api = {
   ],
 };
 
-module.exports = { produk_utama };
+module.exports = { api };
