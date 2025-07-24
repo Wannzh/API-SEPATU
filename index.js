@@ -14,6 +14,10 @@ app.get("/", (req, res) => {
   res.send("Welcome to Sepatu API");
 });
 
+app.get("/catalog-sepatu", (req, res) => {
+  res.json(apiData);
+})
+
 app.get("/produk-utama", (req, res) => {
   // console.log(apiData.api.produk_utama);
   res.json(apiData.api.produk_utama);
