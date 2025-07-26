@@ -6,7 +6,7 @@ const api = {
       deskripsi: "Nyaman dan cocok untuk pelari pemula maupun profesional.",
       gambar:
         "https://tse3.mm.bing.net/th/id/OIP.0a9hSlx4FXzRBiu4ZebqlwHaHa?pid=Api&P=0&h=180",
-      link: "sepatulari.html",
+      link: "sepatu-lari.html",
     },
     {
       id: 2,
@@ -14,7 +14,7 @@ const api = {
       deskripsi: "Desain grip kuat untuk medan berat dan lintasan pegunungan.",
       gambar:
         "https://ds393qgzrxwzn.cloudfront.net/resize/m720x480/cat1/img/images/0/BGtTIXqO1G.jpg",
-      link: "sepatugunung.html",
+      link: "sepatu-gunung.html",
     },
   ],
   sepatu_lari: [
